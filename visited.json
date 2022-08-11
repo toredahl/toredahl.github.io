@@ -2899,12 +2899,12 @@
  {
    "adresse": "Conrad Hemsens Vei",
    "datobesøkt": "",
+ {
    "år": null,
    "koordinatstart": "",
    "koordinatslutt": "",
    "element": ""
  },
- {
    "adresse": "Conradis Gate",
    "datobesøkt": "08.08",
    "år": 2021,
@@ -10158,7 +10158,7 @@
    "år": null,
    "koordinatstart": "",
    "koordinatslutt": "",
-   "element": ""
+   "element": "\"Kristoffer Aamots Gate\":\"13.07.2022\""
  },
  {
    "adresse": "Kristoffer Robins Vei",
@@ -10166,7 +10166,7 @@
    "år": null,
    "koordinatstart": "",
    "koordinatslutt": "",
-   "element": "\"Kristoffer Aamots Gate\":\"13.07.2022\""
+   "element": ""
  },
  {
    "adresse": "Krogs Gate",
