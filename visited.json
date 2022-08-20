@@ -145,15 +145,15 @@
  },
  {
    "adresse": "Akersborg Terrasse",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Akersborg Terrasse\":\"20.08.2022\""
  },
  {
    "adresse": "Akersgata",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Akersgata\":\"20.08.2022\""
  },
  {
    "adresse": "Akershusstranda",
@@ -391,9 +391,9 @@
  },
  {
    "adresse": "Arbeidergata",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Arbeidergata\":\"20.08.2022\""
  },
  {
    "adresse": "Arbeidersamfunnets Plass",
@@ -1513,9 +1513,9 @@
  },
  {
    "adresse": "Brageveien",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Brageveien\":\"20.08.2022\""
  },
  {
    "adresse": "Brandts Gate",
@@ -2809,9 +2809,9 @@
  },
  {
    "adresse": "Elgveien",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Elgveien\":\"20.08.2022\""
  },
  {
    "adresse": "Elias Blix' Gate",
@@ -3049,14 +3049,20 @@
  },
  {
    "adresse": "Europarådets Plass",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Europarådets Plass\":\"20.08.2022\""
  },
  {
    "adresse": "Europaveien",
    "datobesøkt": "",
    "år": null,
+   "element": ""
+ },
+ {
+   "adresse": "Eva Kolstads gate",
+   "datobesøkt": "20.08",
+   "år": 2022,
    "element": ""
  },
  {
@@ -3139,9 +3145,9 @@
  },
  {
    "adresse": "Falbes Gate",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Falbes Gate\":\"20.08.2022\""
  },
  {
    "adresse": "Falck Ytters Plass",
@@ -3757,9 +3763,9 @@
  },
  {
    "adresse": "Frydenlundgata",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Frydenlundgata\":\"20.08.2022\""
  },
  {
    "adresse": "Frydens Gate",
@@ -4579,9 +4585,9 @@
  },
  {
    "adresse": "Grubbegata",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Grubbegata\":\"20.08.2022\""
  },
  {
    "adresse": "Gruegata",
@@ -5275,9 +5281,9 @@
  },
  {
    "adresse": "Hasselbakken",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Hasselbakken\":\"20.08.2022\""
  },
  {
    "adresse": "Hasselhaugveien",
@@ -5797,9 +5803,9 @@
  },
  {
    "adresse": "Hjorteveien",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Hjorteveien\":\"20.08.2022\""
  },
  {
    "adresse": "Hjortneskaia",
@@ -7567,9 +7573,9 @@
  },
  {
    "adresse": "Kristian Augusts Gate",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Kristian Augusts Gate\":\"20.08.2022\""
  },
  {
    "adresse": "Kristian Bogneruds Vei",
@@ -8227,9 +8233,9 @@
  },
  {
    "adresse": "Lille Grensen",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Lille Grensen\":\"20.08.2022\""
  },
  {
    "adresse": "Lille Huseby Vei",
@@ -9199,9 +9205,9 @@
  },
  {
    "adresse": "Mikkel Doblougs Gate",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Mikkel Doblougs Gate\":\"20.08.2022\""
  },
  {
    "adresse": "Mikkel Revs Vei",
@@ -9655,9 +9661,9 @@
  },
  {
    "adresse": "Nedre Slottsgate",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Nedre Slottsgate\":\"20.08.2022\""
  },
  {
    "adresse": "Nedre Stabburvei",
@@ -9673,9 +9679,9 @@
  },
  {
    "adresse": "Nedre Ullevål",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Nedre Ullevål\":\"20.08.2022\""
  },
  {
    "adresse": "Nedre Vaskegang",
@@ -10885,9 +10891,9 @@
  },
  {
    "adresse": "Pløens Gate",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Pløens Gate\":\"20.08.2022\""
  },
  {
    "adresse": "Pontoppidans Gate",
@@ -10975,9 +10981,9 @@
  },
  {
    "adresse": "Prinsens Gate",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Prinsens Gate\":\"20.08.2022\""
  },
  {
    "adresse": "Prinsessealleen",
@@ -12013,9 +12019,9 @@
  },
  {
    "adresse": "Sehesteds Gate",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Sehesteds Gate\":\"20.08.2022\""
  },
  {
    "adresse": "Seilduksgata",
@@ -12793,9 +12799,9 @@
  },
  {
    "adresse": "Smedkroken",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Smedkroken\":\"20.08.2022\""
  },
  {
    "adresse": "Smedstusvingen",
@@ -13423,9 +13429,9 @@
  },
  {
    "adresse": "Stiftamtmann Kaas’ Vei",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Stiftamtmann Kaas’ Vei\":\"20.08.2022\""
  },
  {
    "adresse": "Stigenga",
@@ -14353,9 +14359,9 @@
  },
  {
    "adresse": "Tiurveien",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Tiurveien\":\"20.08.2022\""
  },
  {
    "adresse": "Tjernfaret",
@@ -15037,9 +15043,9 @@
  },
  {
    "adresse": "Ullevålsveien",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Ullevålsveien\":\"20.08.2022\""
  },
  {
    "adresse": "Ullveien",
@@ -15823,9 +15829,9 @@
  },
  {
    "adresse": "Youngstorget",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Youngstorget\":\"20.08.2022\""
  },
  {
    "adresse": "Zahlkasserer Schafts Plass",
@@ -16093,9 +16099,9 @@
  },
  {
    "adresse": "Øvre Slottsgate",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "20.08",
+   "år": 2022,
+   "element": "\"Øvre Slottsgate\":\"20.08.2022\""
  },
  {
    "adresse": "Øvre Smestadvei",
