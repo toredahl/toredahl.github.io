@@ -319,9 +319,9 @@
  },
  {
    "adresse": "Anna Pleyms Vei",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "12.06",
+   "år": 2023,
+   "element": "\"Anna Pleyms Vei\":\"12.06.2023\""
  },
  {
    "adresse": "Anna Rogstads Vei",
@@ -769,9 +769,9 @@
  },
  {
    "adresse": "Bånkallstubben",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "12.06",
+   "år": 2023,
+   "element": "\"Bånkallstubben\":\"12.06.2023\""
  },
  {
    "adresse": "Bankplassen",
@@ -1441,9 +1441,9 @@
  },
  {
    "adresse": "Bodøgata",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Bodøgata\":\"06.08.2023\""
  },
  {
    "adresse": "Bogerudslyngen",
@@ -2101,9 +2101,9 @@
  },
  {
    "adresse": "Christian Michelsens Gate",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "02.08",
+   "år": 2023,
+   "element": "\"Christian Michelsens Gate\":\"02.08.2023\""
  },
  {
    "adresse": "Christian Schous Vei",
@@ -2203,9 +2203,9 @@
  },
  {
    "adresse": "Dag Hammarskjølds Vei",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "02.08",
+   "år": 2023,
+   "element": "\"Dag Hammarskjølds Vei\":\"02.08.2023\""
  },
  {
    "adresse": "Dagalikroken",
@@ -4087,9 +4087,9 @@
  },
  {
    "adresse": "Geitmyrsveien",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Geitmyrsveien\":\"06.08.2023\""
  },
  {
    "adresse": "General Birchs Gate",
@@ -4537,9 +4537,9 @@
  },
  {
    "adresse": "Griffenfeldts Gate",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Griffenfeldts Gate\":\"06.08.2023\""
  },
  {
    "adresse": "Grimelundshaugen",
@@ -5041,9 +5041,9 @@
  },
  {
    "adresse": "Hammerfestgata",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Hammerfestgata\":\"06.08.2023\""
  },
  {
    "adresse": "Hammergata",
@@ -5995,9 +5995,9 @@
  },
  {
    "adresse": "Holsts Gate",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Holsts Gate\":\"06.08.2023\""
  },
  {
    "adresse": "Holsts Vei",
@@ -6817,9 +6817,9 @@
  },
  {
    "adresse": "Kaj Munks Vei",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "02.08",
+   "år": 2023,
+   "element": "\"Kaj Munks Vei\":\"02.08.2023\""
  },
  {
    "adresse": "Kakkelovnskroken",
@@ -6925,9 +6925,9 @@
  },
  {
    "adresse": "Karen Platous Vei",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "12.06",
+   "år": 2023,
+   "element": "\"Karen Platous Vei\":\"12.06.2023\""
  },
  {
    "adresse": "Karenslyst Allé",
@@ -7168,6 +7168,12 @@
    "datobesøkt": "",
    "år": null,
    "element": ""
+ },
+ {
+   "adresse": "Kirsten Hansteens Plass",
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Kirsten Hansteens Plass\":\"06.08.2023\""
  },
  {
    "adresse": "Kittel-Nielsens Vei",
@@ -8917,9 +8923,9 @@
  },
  {
    "adresse": "Marcus Thranes Gate",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Marcus Thranes Gate\":\"06.08.2023\""
  },
  {
    "adresse": "Margit Hansens Gate",
@@ -8929,9 +8935,9 @@
  },
  {
    "adresse": "Margrethe Parms Vei",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "12.06",
+   "år": 2023,
+   "element": "\"Margrethe Parms Vei\":\"12.06.2023\""
  },
  {
    "adresse": "Maria Dehlis Vei",
@@ -10585,9 +10591,9 @@
  },
  {
    "adresse": "Oskar Braatens Plass",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Oskar Braatens Plass\":\"06.08.2023\""
  },
  {
    "adresse": "Oslo Gate",
@@ -11491,9 +11497,9 @@
  },
  {
    "adresse": "Rommibakken",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "12.06",
+   "år": 2023,
+   "element": "\"Rommibakken\":\"12.06.2023\""
  },
  {
    "adresse": "Rommiskogen",
@@ -11515,9 +11521,9 @@
  },
  {
    "adresse": "Romsdalsgata",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Romsdalsgata\":\"06.08.2023\""
  },
  {
    "adresse": "Rosenbergveien",
@@ -11557,9 +11563,9 @@
  },
  {
    "adresse": "Rosenlundgata",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Rosenlundgata\":\"06.08.2023\""
  },
  {
    "adresse": "Roseveien",
@@ -11815,9 +11821,9 @@
  },
  {
    "adresse": "Sagveien",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Sagveien\":\"06.08.2023\""
  },
  {
    "adresse": "Sakariasveien",
@@ -13489,9 +13495,9 @@
  },
  {
    "adresse": "Stockholmgata",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Stockholmgata\":\"06.08.2023\""
  },
  {
    "adresse": "Stolmakergata",
@@ -13717,9 +13723,9 @@
  },
  {
    "adresse": "Sunnmørgata",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Sunnmørgata\":\"06.08.2023\""
  },
  {
    "adresse": "Surstoffveien",
@@ -13789,9 +13795,9 @@
  },
  {
    "adresse": "Sveiva",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "12.06",
+   "år": 2023,
+   "element": "\"Sveiva\":\"12.06.2023\""
  },
  {
    "adresse": "Sven Bruns Gate",
@@ -14569,9 +14575,9 @@
  },
  {
    "adresse": "Torshovgata",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Torshovgata\":\"06.08.2023\""
  },
  {
    "adresse": "Torstølveien",
@@ -15205,9 +15211,9 @@
  },
  {
    "adresse": "Valdresgata",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Valdresgata\":\"06.08.2023\""
  },
  {
    "adresse": "Vålerenggata",
@@ -15277,9 +15283,9 @@
  },
  {
    "adresse": "Vardøgata",
-   "datobesøkt": "",
-   "år": null,
-   "element": ""
+   "datobesøkt": "06.08",
+   "år": 2023,
+   "element": "\"Vardøgata\":\"06.08.2023\""
  },
  {
    "adresse": "Vargveien",
